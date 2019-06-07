@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
 
-	  "preinstall": "npm install --production",
 	  "start": "node ./bin/www"
   },
   "dependencies": {
